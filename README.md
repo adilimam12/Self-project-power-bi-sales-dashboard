@@ -2,13 +2,13 @@
 
 This project involves building a sales dashboard using Power BI to provide insights into sales performance, customer behavior, and product trends. The dashboard displays key metrics and KPIs such as revenue, profit margin, top products, and customer segmentation to track the performance of the business and make informed decisions.
 
-**Technologies Used
+**Technologies Used**
 
 Power BI: Used to build the sales dashboard and visualize sales data in an interactive and dynamic manner.
 
 Excel: Used to store, clean, and transform raw sales data into structured tables for Power BI consumption.
 
-**Project Workflow
+**Project Workflow**
 
 Collect data: Gather sales data from different sources such as Excel spreadsheets, SQL databases, and external APIs.
 
@@ -24,6 +24,6 @@ Collaborate with stakeholders: Collaborate with stakeholders and team members to
 
 Present findings: Present the dashboard to stakeholders to communicate findings and recommendations for improving sales performance, customer behavior, and product trends.
 
-**Conclusion
+**Conclusion**
 
 Through this project, I gained proficiency in using Power BI to build custom dashboards, create data models, and provide insights for decision-making. The skills and experiences gained from this project can be applied to future data analysis projects.
