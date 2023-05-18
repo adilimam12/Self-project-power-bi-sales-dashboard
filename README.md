@@ -3,7 +3,8 @@
 This project involves building a sales dashboard using Power BI to provide insights into sales performance, customer behavior, and product trends. The dashboard displays key metrics and KPIs such as revenue, profit margin, top products, and customer segmentation to track the performance of the business and make informed decisions.
 
 
-![Screenshot 2023-04-29 025413](https://github.com/adilimam12/Self-project-power-bi-sales-dashboard/assets/113783902/c150e410-4d02-4dbf-8b45-21753107a550)
+
+![Screenshot 2023-05-18 193059](https://github.com/adilimam12/Self-project-power-bi-sales-dashboard/assets/113783902/9bc06320-3bf6-49ce-a67f-64de229d2605)
 
 **Technologies Used**
 
